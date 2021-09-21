@@ -1,0 +1,20 @@
+.body{
+    margin: 0px;
+    padding: 0px
+}
+
+.bajaj{
+    color: blue;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border:black;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
